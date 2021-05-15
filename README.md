@@ -8,7 +8,7 @@ They can be used by adding them to your functions.php file. I highly recommend u
   - [Add product page sections for each attribute](#add-product-page-sections-for-each-attribute)  
   - [Change default WooCommerce Placeholder image](#change-default-woocommerce-placeholder-image)  
   - [Add a list of Subcategories to any Category page](#add-a-list-of-subcategories-to-any-category-page)  
-  - [Add a related products section to the bottom of product pages](add-a-related-products-section-to-the-bottom-of-product-pages)
+  - [Add a related products section to the bottom of product pages](#add-a-related-products-section-to-the-bottom-of-product-pages)
   - [Add a products in this Category section to the bottom of the product pages](#add-a-products-in-this-category-section-to-the-bottom-of-the-product-pages)
   - [Display the brand on the product page below the title](#display-the-brand-on-the-product-page-below-the-title)
 
