@@ -3,11 +3,12 @@ A collection of WooCommerce PHP snippets written by me for adding more functiona
 All of these snippets are designed for WooCommerce, and tested up to version 4.8.0.  
 They can be used by adding them to your functions.php file. I highly recommend using a [child theme](https://developer.wordpress.org/themes/advanced-topics/child-themes/) if this is your first time adding custom code!
 
-- Snippets  
+- Shortcodes  
   - [List all brands alphabetically with links](#list-all-brands-alphabetically-with-links)  
+  - [Add a list of Subcategories to any Category page](#add-a-list-of-subcategories-to-any-category-page)  
+- Functions
   - [Add product page sections for each attribute](#add-product-page-sections-for-each-attribute)  
   - [Change default WooCommerce Placeholder image](#change-default-woocommerce-placeholder-image)  
-  - [Add a list of Subcategories to any Category page](#add-a-list-of-subcategories-to-any-category-page)  
   - [Add a related products section to the bottom of product pages](#add-a-related-products-section-to-the-bottom-of-product-pages)
   - [Add a products in this Category section to the bottom of the product pages](#add-a-products-in-this-category-section-to-the-bottom-of-the-product-pages)
   - [Display the brand on the product page below the title](#display-the-brand-on-the-product-page-below-the-title)
